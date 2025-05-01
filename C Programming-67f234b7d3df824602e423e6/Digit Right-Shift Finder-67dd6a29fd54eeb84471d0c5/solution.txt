@@ -1,0 +1,1 @@
+[{"code":"int digitRightShift(N){\r\n    printf(\"%d%d\",N%10,N/10);\r\n}","language":"c","time":"2025-05-01T05:06:10.783Z","isCorrect":false}]
