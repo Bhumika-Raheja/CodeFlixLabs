@@ -1,0 +1,1 @@
+[{"code":"#include <stdio.h>\r\nint main(){\r\n    int a,b;\r\n    scanf(\"%d %d\",&a,&b);\r\n    if (a>17 && b==1){\r\n        printf(\"Eligible\");\r\n    }\r\n    else{\r\n        printf(\"Not Eligible\");\r\n    }\r\n    return 0;\r\n}","language":"c","time":"2025-05-11T14:12:59.089Z","isCorrect":true}]
