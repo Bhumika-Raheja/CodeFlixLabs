@@ -1,0 +1,1 @@
+[{"code":"int kangaroo(int a,int b,int m,int n){\r\n    int count=0;\r\n    for (int i=0;i<100;i++){\r\n        if(a==m){\r\n            printf(\"%d\",count);\r\n            break;\r\n        }\r\n        a+=b;\r\n        m+=n;\r\n        count++;\r\n    }\r\n}","language":"c","time":"2025-05-13T07:49:21.232Z","isCorrect":false}]
